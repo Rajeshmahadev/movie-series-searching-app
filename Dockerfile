@@ -1,4 +1,3 @@
-#Author: Rajeshmahadev
 # START #
 FROM node:16
 WORKDIR /raj
